@@ -1,0 +1,4 @@
+Package Version
+------- -------
+pillow  11.3.0
+pip     25.1.1
